@@ -1,13 +1,14 @@
 punktowanie:
-|nr zadania | punkty|
---------------------
-|1| 8pkt|
-|2| 4pkt|
-|3| 8pkt|
-|4| 12pkt|
-|5| 4pkt|
-|6| 4pkt|
-mozna miec kalkulator naukowy
+
+|nr zadania|punkty|
+|----------|------|
+|1|8pkt|
+|2|4pkt|
+|3|8pkt|
+|4|12pkt|
+|5|4pkt|
+|6|4pkt|
+* mozna miec kalkulator naukowy
 
 Przykladowe zadania:
 1. Bx^2 jednostka u polozenie po czasie
@@ -18,14 +19,14 @@ Przykladowe zadania:
 6. Amplituda wypadkowa taka jak ostatnio.
 
 Byly
-|ilosc| zadanie|
----------------
+|ilosc zadan w grupie (co najmniej)| zadanie|
+|------|--------|
 |2| zadania z liczenia ukladow zespolonych|
 |2| zadania z calkami|
 |1| zadanie z wyznaczenia funkcji polozenia od czasu|
 |1| zadanie z wyznaczeniem predkosci od polozenia|
 |1| z wyznaczeniem co w danym wzorze jest czym, w sensie opis kazdego parametru z jednostka|
-2 zadanie z liczbami zespolonymi  (jedno z nich to policzyc impedancje, drugie na moc zespolona i bierna, i jeszcze jakas). Dane byly w formacie U=xe^jwt+phi
+|2| zadania z liczbami zespolonymi  (jedno z nich to policzyc impedancje, drugie na moc zespolona i bierna, i jeszcze jakas). Dane byly w formacie U=xe^jwt+phi|
 
 Byly grupy, zadania podobne, ale kazdy rzad napewno inne liczby mial
 
